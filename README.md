@@ -67,6 +67,8 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Portuguese - pt-PT 
 * Russian - ru
 * Polish - pl
+* Vietnamese - vi
+
 
 ### Needs translation
 * Afrikaans - af
