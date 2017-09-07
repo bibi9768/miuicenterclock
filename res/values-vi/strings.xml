@@ -12,7 +12,7 @@
     <string name="status_cc_enabled">Đã bật Center Clock Mod</string>
     <string name="status_cc_disabled">Đã tắt Center Clock Mod</string>
     <string name="status_no_mod">"Center Clock Mod chưa được cài đặt"</string>
-    <string name="status_no_restore">Deactivation failed</string>
+    <string name="status_no_restore">Kích hoạt thất bại</string>
     <string name="status_dl">Đang tải xuống</string>
     <string name="status_dl_cancelled">Đã huỷ tải xuống</string>
     <string name="status_dl_fail">Tải xuống thất bại</string>
@@ -45,7 +45,7 @@
     <string name="title_icon">Biểu tượng ứng dụng</string>
     <string name="title_status">Trạng thái</string>
     <string name="title_translation">Bản dịch tiếng Việt</string>
-    <string name="translators">Phạm Nguyễn Hữu Thiện/nBibi9768@gmail.com</string>
+    <string name="translators">Phạm Nguyễn Hữu Thiện\nBibi9768@gmail.com</string>
 
 
 </resources>
