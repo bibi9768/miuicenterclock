@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Center Clock</string>
+    <string name="app_name">PNHT Center Clock</string>
     <string name="feature_title">Center Clock Mod</string>
     <string name="centerclock_summary">Hiển thị đồng hồ ở chính giữa thanh trạng thái như trên iOS</string>
 
     <!--Status messages-->
-    <string name="status_enabled">Center Clock Mod đang bật</string>
-    <string name="status_disabled">Center Clock Mod đang tắt</string>
+    <string name="status_enabled">Center Clock Mod hiện đang bật</string>
+    <string name="status_disabled">Center Clock Mod hiện đang tắt</string>
     <string name="status_na">Center Clock Mod hiện chưa hỗ trợ cho thiết bị này</string>
-    <string name="status_cc_enabling">Đang bật Center Clock Mod. Chờ vài giây…</string>
-    <string name="status_cc_disabling">Đang tắt Center Clock Mod. Chờ vài giây…</string>
+    <string name="status_cc_enabling">Đang bật. Chờ vài giây…</string>
+    <string name="status_cc_disabling">Đang tắt. Chờ vài giây…</string>
     <string name="status_cc_enabled">Đã bật Center Clock Mod</string>
     <string name="status_cc_disabled">Đã tắt Center Clock Mod</string>
     <string name="status_no_mod">"Center Clock Mod chưa được cài đặt"</string>
@@ -16,24 +16,24 @@
     <string name="status_dl">Đang tải xuống</string>
     <string name="status_dl_cancelled">Đã huỷ tải xuống</string>
     <string name="status_dl_fail">Tải xuống thất bại</string>
-    <string name="status_network">Không có mạng</string>
+    <string name="status_network">Không có kết nối internet</string>
     <string name="status_url">Center Clock Mod hiện chưa hỗ trợ cho phiên bản này (%s), kiểm tra lại sau.\n\nPhiên bản thử nghiệm (BETA) sẽ không được hỗ trợ!</string>
     <string name="requesting_root">Đang yêu cầu quyền Root…</string>
     <string name="requesting_write">Đang yêu cầu quyền Đọc…</string>
 
     <!--Dialogs-->
-    <string name="alert_cc">Các tệp bổ sung được yêu cầu để sử dụng tính năng này. Tải xuống (khoảng 4.5 MB) và cài đặt ngay?</string>
+    <string name="alert_cc">Các tải xuống một số tệp bổ sung bắt buộc để sử dụng tính năng này. Tải xuống (khoảng 4.5 MB) và cài đặt ngay?</string>
     <string name="alert_resources">Cài đặt Center Clock Mod</string>
     <string name="alert_cc_enable">Cài đặt thành công. Center Clock Mod sẽ được bật ngay.</string>
     <string name="alert_cc_disable">Cài đặt thành công. Center Clock Mod sẽ được tắt ngay.</string>
     <string name="alert_yes">Có</string>
     <string name="alert_no">Không</string>
     <string name="alert_translate_title">PNHT</string>
-    <string name="alert_translate_message">Bạn có muốn đóng góp bản dịch địa phương của bạn cho ứng dụng này?</string>
-    <string name="alert_translate_yes">"Có, tôi tham gia"</string>
+    <string name="alert_translate_message">Ứng dụng này được dịch bởi Phạm Nguyễn Hữu Thiện(Bibi9768@gmail.com). Bạn có muốn góp ý</string>
+    <string name="alert_translate_yes">"Có"</string>
     <string name="alert_translate_no">"Không, cảm ơn"</string>
     <string name="btn_cancel">Huỷ</string>
-    <string name="action_translate">Dịch</string>
+    <string name="action_translate">PNHT</string>
 
     <!--Error messages-->
     <string name="error_root">Phần mềm này yêu cầu quyền Root</string>
